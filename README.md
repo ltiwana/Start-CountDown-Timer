@@ -39,7 +39,9 @@ You can also be very specific down to a second. The function will add all the pr
 `Start-CountDownTimer -Hours 1 -Minutes 19 -Seconds 45`
 
 ![ScreenShot5](/Screenshots/5.png)
+
 > OR
+
 You can also do something like this:
 
 `Start-CountDownTimer -Hours 1.5`
